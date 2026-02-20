@@ -1,0 +1,70 @@
+<Category> RusForma Vehicles mil
+     	BTR_80,						VNK,		200000,	120000
+		BTR_80_camo,				VNK,		200000,	120000
+		BTR_80_camo2,				VNK,		200000,	120000
+		BTR_80_rust,				VNK,		200000,	120000
+		GAZ_233002_Tiger,			VNK,		200000,	120000
+		GAZ_233002_Tiger_camo,		VNK,		200000,	120000
+		
+
+<Category> RusForma Vehicles Trucks
+		GAZ_33081,					VNK,		120000,	70000
+		GAZ_33081_camo,				VNK,		120000,	70000
+		URAL_375_1964,				VNK,		120000,	70000
+		URAL_375_1964_tent,			VNK,		120000,	70000
+
+
+<Category> RusForma Vehicles Cars
+		AZLK_2141RF_red,				VNK,		45000,	25000
+		AZLK_2141RF_beige,			VNK,		45000,	25000
+		AZLK_2141RF_Lettus,			VNK,		45000,	25000
+		AZLK_2141RF_milicia,			VNK,		45000,	25000
+		dodge_power_wagonrus,		VNK,		45000,	25000
+		dodge_power_wagonrus_yellow,	VNK,		45000,	25000
+		dodge_power_wagonrus_white,	VNK,		45000,	25000
+		dodge_power_wagonrus_black,	VNK,		45000,	25000
+		dodge_power_wagonrus_red,	VNK,		45000,	25000
+		F1_Pickup,					VNK,		45000,	25000
+		F1_Pickup_green,			VNK,		45000,	25000
+		GAZ21_Volga,				VNK,		45000,	25000
+		GAZ21_Volga_black,			VNK,		45000,	25000
+		GAZ21_Volga_green,			VNK,		45000,	25000
+		GAZ_12_white,				VNK,		45000,	25000
+		GAZ_13_Chaika,				VNK,		45000,	25000
+		GAZ_13_Chaika_black_rust,	VNK,		45000,	25000
+		GAZ_13_Chaika_white,		VNK,		45000,	25000
+		GAZ_13_Chaika_white_rust,	VNK,		45000,	25000
+		GAZ_3110_volga,				VNK,		45000,	25000
+		GAZ_3110_volga_taxi,		VNK,		45000,	25000
+		GAZ_3110_volga_black,		VNK,		45000,	25000
+		GAZ_3110_volga_white,		VNK,		45000,	25000
+		GAZ_M20_white,				VNK,		45000,	25000
+		GAZ_M20_green,				VNK,		45000,	25000
+		GAZ_M20_black,				VNK,		45000,	25000
+		GAZ_M20_red,				VNK,		45000,	25000
+		GAZ_M20_blue,				VNK,		45000,	25000
+		ij_2715_RF,					VNK,		45000,	25000
+		ij_2715_RF_blue,			VNK,		45000,	25000
+		ij_2715_RF_green,			VNK,		45000,	25000
+		ij_2715_RF_red,				VNK,		45000,	25000
+		Niva2329,					VNK,		45000,	25000
+		Niva2329_camo,				VNK,		45000,	25000
+		moskvich_407,				VNK,		45000,	25000
+		moskvich_407_double_red,	VNK,		45000,	25000
+		moskvich_407_double_blue,	VNK,		45000,	25000
+		moskvich_407_grey,			VNK,		45000,	25000
+		UAZ_3163,					VNK,		45000,	25000
+		UAZ_3163_gamekeeper,		VNK,		45000,	25000
+		UAZ_3163_white,				VNK,		45000,	25000
+		UAZ_3163_green,				VNK,		45000,	25000
+		UAZ_3163_blue,				VNK,		45000,	25000
+		UAZ_3163_black,				VNK,		45000,	25000
+		UAZ_3163_Red,				VNK,		45000,	25000
+		UAZ_33094,					VNK,		45000,	25000
+		UAZ_33094_gray,				VNK,		45000,	25000
+		UAZ_33094_tent,				VNK,		45000,	25000
+		UAZ_Patrot_Pikap,			VNK,		45000,	25000
+		UAZ_Patrot_Pikap_red,		VNK,		45000,	25000
+		UAZ_Patrot_Pikap_blue,		VNK,		45000,	25000
+		UAZ_Patrot_Pikap_green,		VNK,		45000,	25000
+		UAZ_Patrot_Pikap_white,		VNK,		45000,	25000
